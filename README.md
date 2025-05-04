@@ -188,12 +188,14 @@
 ## 📁 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/YooshaMirza/AI-projects](https://github.com/YooshaMirza/Deep-Learning-Skin-disease-and-skin-cancer-predition-model-using-CNN">
+  <a href="https://github.com/YooshaMirza/llm_chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YooshaMirza&repo=llm_chatbot&theme=algolia" alt="llm_chatbot" />
   </a>
-  <a href="https://github.com/YooshaMirza/full-stack-web](https://github.com/YooshaMirza/llm_chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YooshaMirza&repo=llmchatbot&theme=algolia" alt="Full Stack Web" />
+  <a href="https://github.com/YooshaMirza/Deep-Learning-Skin-disease-and-skin-cancer-predition-model-using-CNN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YooshaMirza&repo=Deep-Learning-Skin-disease-and-skin-cancer-predition-model-using-CNN&theme=algolia" alt="Skin Cancer Prediction Model" />
   </a>
 </div>
+
 
 ## 📈 Activity Graph
 <div align="center">
