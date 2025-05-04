@@ -192,7 +192,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YooshaMirza&repo=AI-projects&theme=algolia" alt="AI Projects" />
   </a>
   <a href="https://github.com/YooshaMirza/full-stack-web](https://github.com/YooshaMirza/llm_chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YooshaMirza&repo=full-stack-web&theme=algolia" alt="Full Stack Web" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YooshaMirza&repo=llmchatbot&theme=algolia" alt="Full Stack Web" />
   </a>
 </div>
 
