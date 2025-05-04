@@ -38,11 +38,11 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yooshamirza/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yooshamirza&repo=project1&theme=radical" alt="Project 1" width="45%" />
+  <a href="https://github.com/yooshamirza/Realtime-Noise-Suppression-WebApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yooshamirza&repo=Realtime-Noise-Suppression-WebApp&theme=radical" alt="Realtime Noise Suppression" width="45%" />
   </a>
-  <a href="https://github.com/yooshamirza/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yooshamirza&repo=project2&theme=radical" alt="Project 2" width="45%" />
+  <a href="https://github.com/yooshamirza/Underwater-Image-Enhancement-Transformer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yooshamirza&repo=Underwater-Image-Enhancement-Transformer&theme=radical" alt="Underwater Image Enhancement Transformer" width="45%" />
   </a>
 </div>
 
