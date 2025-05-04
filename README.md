@@ -189,7 +189,6 @@
 
 <div align="center">
   <a href="https://github.com/YooshaMirza/AI-projects](https://github.com/YooshaMirza/Deep-Learning-Skin-disease-and-skin-cancer-predition-model-using-CNN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YooshaMirza&repo=AI-projects&theme=algolia" alt="AI Projects" />
   </a>
   <a href="https://github.com/YooshaMirza/full-stack-web](https://github.com/YooshaMirza/llm_chatbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YooshaMirza&repo=llmchatbot&theme=algolia" alt="Full Stack Web" />
