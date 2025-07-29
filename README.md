@@ -188,7 +188,22 @@ I'm a dedicated Machine Learning and AI Developer with a strong foundation in Fu
 
 ## 💻 Web & Application Development
 ---
-
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/YooshaMirza/Portfolio-Website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YooshaMirza&repo=Portfolio-Website&theme=algolia" alt="Portfolio Website" width="100%" />
+      </a>
+      <p align="center"><b>Portfolio Website:</b> Personal portfolio showcasing projects, skills, and achievements</p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/YooshaMirza/3D-Voice-Bot-with-RAG-and-LLM">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YooshaMirza&repo=3D-Voice-Bot-with-RAG-and-LLM&theme=algolia" alt="3D Voice Bot with RAG and LLM" width="100%" />
+      </a>
+      <p align="center"><b>3D Voice Bot:</b> Interactive 3D voice assistant powered by Retrieval-Augmented Generation and LLM</p>
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td width="50%">
