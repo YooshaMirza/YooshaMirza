@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # Mirza Yoosha Minhaj
 
 ### Innovating at the Intersection of AI & Full Stack Development
@@ -10,13 +10,19 @@
 
 </div>
 
+---
+
 ## 🌟 My Core Focus & Passion
 
 I'm a dedicated Machine Learning and AI Developer with a strong foundation in Full Stack Development, passionate about building intelligent systems that solve real-world problems. My expertise spans from crafting robust backend architectures to designing intuitive user interfaces, always with an eye towards leveraging cutting-edge AI.
 
-* 🔭 **Currently Immersed in Generative AI:** Actively developing and deploying solutions that push the boundaries of what's possible with LLMs and other generative models, focusing on practical applications.
-* 🌱 **Mastering Advanced ML Architectures:** Continuously deep-diving into sophisticated machine learning techniques (e.g., reinforcement learning, advanced neural networks, MLOps best practices) to build scalable and efficient AI systems.
-* 🤝 **Seeking High-Impact Collaborations:** Eager to connect with teams and individuals on open-source projects that leverage AI for positive societal or technological advancement.
+> 🔭 **Currently Immersed in Generative AI:** Actively developing and deploying solutions that push the boundaries of what's possible with LLMs and other generative models, focusing on practical applications.
+>
+> 🌱 **Mastering Advanced ML Architectures:** Continuously deep-diving into sophisticated machine learning techniques (e.g., reinforcement learning, advanced neural networks, MLOps best practices) to build scalable and efficient AI systems.
+>
+> 🤝 **Seeking High-Impact Collaborations:** Eager to connect with teams and individuals on open-source projects that leverage AI for positive societal or technological advancement.
+
+---
 
 ## 📈 My Contributions & Activity
 
@@ -31,7 +37,41 @@ I'm a dedicated Machine Learning and AI Developer with a strong foundation in Fu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YooshaMirza&theme=algolia" alt="GitHub Streak" />
 </div>
 
+---
+
+## 🌐 Open Source Contributions
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/PRs_Merged-1-6F42C1?style=for-the-badge&logo=git&logoColor=white" alt="PRs Merged" />
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="45%" valign="top">
+      <a href="https://github.com/ethanplusai/harvey">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethanplusai&repo=harvey&theme=algolia" alt="Harvey" width="100%" />
+      </a>
+    </td>
+    <td width="55%" valign="top">
+      <b>Harvey</b>: autonomous AI sales agent<br>
+      <sub>Python · FastAPI · JavaScript</sub><br><br>
+      ✅ <a href="https://github.com/ethanplusai/harvey/pull/40"><b>PR #40, merged</b></a><br><br>
+      • <b>Open in Gmail</b>: send drafted cold emails from your own inbox in one click<br>
+      • <b>Mark as sent</b>: track manual sends without ever losing a reply<br>
+      • <b>Live status panel</b>: real-time pipeline progress, time left and stuck-job detection<br>
+      • <b>15 new tests</b> covering the edge cases
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ My Tech Arsenal
+
+<div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -86,6 +126,10 @@ I'm a dedicated Machine Learning and AI Developer with a strong foundation in Fu
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
+</div>
+
+---
+
 <div align="center">
   <h1>🚀 PROJECT SHOWCASE</h1>
   <p>Highlighting my expertise across multiple domains</p>
@@ -95,7 +139,6 @@ I'm a dedicated Machine Learning and AI Developer with a strong foundation in Fu
 *My primary focus area with applications across various domains*
 
 ## 🤖 Core AI Projects
----
 
 <table>
   <tr>
@@ -125,7 +168,6 @@ I'm a dedicated Machine Learning and AI Developer with a strong foundation in Fu
 </table>
 
 ## 🩺 Healthcare AI Applications
----
 
 <table>
   <tr>
@@ -145,7 +187,6 @@ I'm a dedicated Machine Learning and AI Developer with a strong foundation in Fu
 </table>
 
 ## 🌍 Environmental AI Solutions
----
 
 <table>
   <tr>
@@ -164,10 +205,11 @@ I'm a dedicated Machine Learning and AI Developer with a strong foundation in Fu
   </tr>
 </table>
 
+---
+
 # 💼 Other Domain Expertise
 
 ## 🔒 Cybersecurity & Network Solutions
----
 
 <table>
   <tr>
@@ -187,7 +229,7 @@ I'm a dedicated Machine Learning and AI Developer with a strong foundation in Fu
 </table>
 
 ## 💻 Web & Application Development
----
+
 <table>
   <tr>
     <td width="50%">
@@ -203,8 +245,6 @@ I'm a dedicated Machine Learning and AI Developer with a strong foundation in Fu
       <p align="center"><b>3D Voice Bot:</b> Interactive 3D voice assistant powered by Retrieval-Augmented Generation and LLM</p>
     </td>
   </tr>
-</table>
-<table>
   <tr>
     <td width="50%">
       <a href="https://github.com/YooshaMirza/DSA-CODE-VISUALIZER">
@@ -232,7 +272,6 @@ I'm a dedicated Machine Learning and AI Developer with a strong foundation in Fu
 </table>
 
 ## 🏥 Healthcare Technology
----
 
 <table>
   <tr>
@@ -262,11 +301,13 @@ I'm a dedicated Machine Learning and AI Developer with a strong foundation in Fu
           <img width="70%" src="https://img.shields.io/badge/%E2%9C%A8_EXPLORE_ALL_REPOSITORIES_%E2%9C%A8-2CA5E0?style=for-the-badge&logo=github&logoColor=white&color=gradient" alt="View All Repositories" />
         </a>
         <br><br>
-        <img width="40%" src="https://img.shields.io/badge/Last_Updated-July_2025-FF6F00?style=flat-square&logo=clockify&logoColor=white" alt="Last Updated" />
+        <img width="40%" src="https://img.shields.io/badge/Last_Updated-October_2026-FF6F00?style=flat-square&logo=clockify&logoColor=white" alt="Last Updated" />
       </td>
     </tr>
   </table>
 </div>
+
+---
 
 ## 🏆 Achievements & Activity
 
@@ -278,12 +319,14 @@ I'm a dedicated Machine Learning and AI Developer with a strong foundation in Fu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YooshaMirza&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
+---
+
 <div align="center">
   <img src="https://img.shields.io/badge/Let's_Connect_and_Collaborate!-58A6FF?style=for-the-badge" alt="Let's Connect" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mirza-yoosha-minhaj" target="_blank">
+  <a href="https://linkedin.com/in/the-mirza-yoosha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.kaggle.com/yooshamirza" target="_blank">
@@ -292,9 +335,11 @@ I'm a dedicated Machine Learning and AI Developer with a strong foundation in Fu
   <a href="https://leetcode.com/u/yoosha786" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:yoosha786@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://yourwebsite.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-10C6E9?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
+  <a href="https://yoosha-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-10C6E9?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -308,5 +353,5 @@ I'm a dedicated Machine Learning and AI Developer with a strong foundation in Fu
 
 <div align="center">
   <h3>Thanks for visiting! Feel free to star any repositories that catch your eye. ✨</h3>
-  <p>Profile last updated: <b>2025-07-18</b> by @YooshaMirza</p>
+  <p>Profile last updated: <b>2026-10-21</b> by @YooshaMirza</p>
 </div>
